@@ -1,11 +1,12 @@
 div{
     
-    font-weight: bold
-    
-    
-    
-    ;
+    font-weight: bold;
     color:rgb(11, 17, 1);
     background-color:rgb(207, 55, 8);
     padding: 10px;
+}
+.images{
+    width: 10px;
+    height: 10px;
+
 }
